@@ -1,0 +1,75 @@
+FREQUENCY_ELIMINATOR
+│  FileTree.txt
+│  
+├─div5
+│  ├─script
+│  │      script.do
+│  │      
+│  └─src
+│          div5.v
+│          div5_tb.v
+│          
+├─divider
+│  ├─src
+│  │      divider.v
+│  │      divider_tb.v
+│  │      
+│  └─srcipt
+│          script.do
+│          
+├─divider2
+│  ├─src
+│  │      divider2.v
+│  │      top.v
+│  │      top_tb.v
+│  │      
+│  └─srcipt
+│          script.do
+│          
+├─divider3
+│  ├─script
+│  │      script.do
+│  │      
+│  └─src
+│          divider3.v
+│          divider3_tb.v
+│          
+├─divider4
+│  ├─script
+│  │      script.do
+│  │      
+│  └─src
+│          divider4.v
+│          divider4_tb.v
+│          
+├─divider5
+│  ├─script
+│  │      script.do
+│  │      
+│  └─src
+│          divider5.v
+│          divider5_tb.v
+│          
+├─divider6
+│  ├─python
+│  │      cal.py
+│  │      在 Python 中使用 format() 函式來實現科學計數法.pdf
+│  │      
+│  ├─script
+│  │      script.do
+│  │      
+│  └─src
+│          divider6.v
+│          divider6_tb.v
+│          
+└─divider7
+    ├─python
+    │      cal.py
+    │      
+    ├─script
+    │      script.do
+    │      
+    └─src
+            divider7.sv
+            divider7_tb.v
+            
