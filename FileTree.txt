@@ -1,75 +1,75 @@
 FREQUENCY_ELIMINATOR
-¢x  FileTree.txt
-¢x  
-¢u¢wdiv5
-¢x  ¢u¢wscript
-¢x  ¢x      script.do
-¢x  ¢x      
-¢x  ¢|¢wsrc
-¢x          div5.v
-¢x          div5_tb.v
-¢x          
-¢u¢wdivider
-¢x  ¢u¢wsrc
-¢x  ¢x      divider.v
-¢x  ¢x      divider_tb.v
-¢x  ¢x      
-¢x  ¢|¢wsrcipt
-¢x          script.do
-¢x          
-¢u¢wdivider2
-¢x  ¢u¢wsrc
-¢x  ¢x      divider2.v
-¢x  ¢x      top.v
-¢x  ¢x      top_tb.v
-¢x  ¢x      
-¢x  ¢|¢wsrcipt
-¢x          script.do
-¢x          
-¢u¢wdivider3
-¢x  ¢u¢wscript
-¢x  ¢x      script.do
-¢x  ¢x      
-¢x  ¢|¢wsrc
-¢x          divider3.v
-¢x          divider3_tb.v
-¢x          
-¢u¢wdivider4
-¢x  ¢u¢wscript
-¢x  ¢x      script.do
-¢x  ¢x      
-¢x  ¢|¢wsrc
-¢x          divider4.v
-¢x          divider4_tb.v
-¢x          
-¢u¢wdivider5
-¢x  ¢u¢wscript
-¢x  ¢x      script.do
-¢x  ¢x      
-¢x  ¢|¢wsrc
-¢x          divider5.v
-¢x          divider5_tb.v
-¢x          
-¢u¢wdivider6
-¢x  ¢u¢wpython
-¢x  ¢x      cal.py
-¢x  ¢x      ¦b Python ¤¤¨Ï¥Î format() ¨ç¦¡¨Ó¹ê²{¬ì¾Ç­p¼Æªk.pdf
-¢x  ¢x      
-¢x  ¢u¢wscript
-¢x  ¢x      script.do
-¢x  ¢x      
-¢x  ¢|¢wsrc
-¢x          divider6.v
-¢x          divider6_tb.v
-¢x          
-¢|¢wdivider7
-    ¢u¢wpython
-    ¢x      cal.py
-    ¢x      
-    ¢u¢wscript
-    ¢x      script.do
-    ¢x      
-    ¢|¢wsrc
+â”‚  FileTree.txt
+â”‚  
+â”œâ”€div5(å¥‡æ•¸(é™¤5)é™¤é »å™¨)
+â”‚  â”œâ”€script
+â”‚  â”‚      script.do
+â”‚  â”‚      
+â”‚  â””â”€src
+â”‚          div5.v
+â”‚          div5_tb.v
+â”‚          
+â”œâ”€divider(å¶æ•¸(é™¤4)é™¤é »å™¨)
+â”‚  â”œâ”€src
+â”‚  â”‚      divider.v
+â”‚  â”‚      divider_tb.v
+â”‚  â”‚      
+â”‚  â””â”€srcipt
+â”‚          script.do
+â”‚          
+â”œâ”€divider2(å¶æ•¸(é™¤2ä¸²è¯æˆä¹‹é™¤4)é™¤é »å™¨)
+â”‚  â”œâ”€src
+â”‚  â”‚      divider2.v
+â”‚  â”‚      top.v
+â”‚  â”‚      top_tb.v
+â”‚  â”‚      
+â”‚  â””â”€srcipt
+â”‚          script.do
+â”‚          
+â”œâ”€divider3(å¥‡æ•¸(é™¤3)é™¤é »å™¨_è²¬ä»»å‘¨æœŸä¸ç‚º50%)
+â”‚  â”œâ”€script
+â”‚  â”‚      script.do
+â”‚  â”‚      
+â”‚  â””â”€src
+â”‚          divider3.v
+â”‚          divider3_tb.v
+â”‚          
+â”œâ”€divider4(å¥‡æ•¸(é™¤3)é™¤é »å™¨_è²¬ä»»å‘¨æœŸç‚º50%_æ–¹æ³•1)
+â”‚  â”œâ”€script
+â”‚  â”‚      script.do
+â”‚  â”‚      
+â”‚  â””â”€src
+â”‚          divider4.v
+â”‚          divider4_tb.v
+â”‚          
+â”œâ”€divider5(å¥‡æ•¸(é™¤3)é™¤é »å™¨_è²¬ä»»å‘¨æœŸç‚º50%_æ–¹æ³•2)
+â”‚  â”œâ”€script
+â”‚  â”‚      script.do
+â”‚  â”‚      
+â”‚  â””â”€src
+â”‚          divider5.v
+â”‚          divider5_tb.v
+â”‚          
+â”œâ”€divider6(ä»»æ„å°æ•¸(åˆ†æ•¸)é™¤é »å™¨_è²¬ä»»å‘¨æœŸä¸ç‚º50%)
+â”‚  â”œâ”€python
+â”‚  â”‚      cal.py
+â”‚  â”‚      åœ¨ Python ä¸­ä½¿ç”¨ format() å‡½å¼ä¾†å¯¦ç¾ç§‘å­¸è¨ˆæ•¸æ³•.pdf
+â”‚  â”‚      
+â”‚  â”œâ”€script
+â”‚  â”‚      script.do
+â”‚  â”‚      
+â”‚  â””â”€src
+â”‚          divider6.v
+â”‚          divider6_tb.v
+â”‚          
+â””â”€divider7(ä»»æ„å°æ•¸(åˆ†æ•¸)é™¤é »å™¨_è²¬ä»»å‘¨æœŸæ¥è¿‘50%)
+    â”œâ”€python
+    â”‚      cal.py
+    â”‚      
+    â”œâ”€script
+    â”‚      script.do
+    â”‚      
+    â””â”€src
             divider7.sv
             divider7_tb.v
             
